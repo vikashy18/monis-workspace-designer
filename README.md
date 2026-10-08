@@ -2,7 +2,7 @@
 
 An interactive workspace designer for [monis.rent](https://monis.rent). Pick a desk and a chair, add monitors, a lamp, plants and the rest, watch the room come together, then rent the whole setup in one step.
 
-**Live:** https://monis-workspace-designer.vercel.app
+**Live:** https://monis-workspace-designer-seven-zeta.vercel.app
 
 ## What you can do
 
